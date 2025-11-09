@@ -1,0 +1,7 @@
+{
+  "name": "Notion-Style OCR Notebook",
+  "description": "A minimalist web application to scan text from images using AI and organize it into digital notebooks, inspired by Notion's clean aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
